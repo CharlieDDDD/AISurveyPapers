@@ -13,6 +13,7 @@ LLM, MLLM, Multimodal Large Language Model, Large Language Model, AI System, Sur
 3. AI Alignment: A Comprehensive Survey, https://alignmentsurvey.com/
 4. LLM Powered Autonomous Agents, https://lilianweng.github.io/posts/2023-06-23-agent/
 5. A Comprehensive Study of Knowledge Editing for Large Language Models, https://arxiv.org/pdf/2401.01286.pdf
+6. A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models, https://arxiv.org/pdf/2401.01313.pdf
 
 # AGI
 1. Levels of AGI: Operationalizing Progress on the Path to AGI, https://arxiv.org/pdf/2311.02462.pdf
