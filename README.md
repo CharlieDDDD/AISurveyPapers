@@ -11,3 +11,6 @@ LLM, MLLM, Multimodal Large Language Model, Large Language Model, AI System, Sur
 1. A Survey of Large Language Models, https://github.com/RUCAIBox/LLMSurvey
 2. The Rise and Potential of Large Language Model Based Agents: A Survey, https://arxiv.org/pdf/2309.07864.pdf
 3. AI Alignment: A Comprehensive Survey, https://alignmentsurvey.com/
+
+# AGI
+1. Levels of AGI: Operationalizing Progress on the Path to AGI, https://arxiv.org/pdf/2311.02462.pdf
