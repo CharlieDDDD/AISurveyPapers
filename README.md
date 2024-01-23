@@ -7,6 +7,7 @@ Visual Language Model(VLM), Large Language Model(LLM), Multimodal Large Language
 3. How to Bridge the Gap between Modalities: A Comprehensive Survey on Multi-modal Large Language Model, https://arxiv.org/pdf/2311.07594.pdf
 4. Visual Instruction Tuning towards General-Purpose Multimodal Model: A Survey, https://arxiv.org/pdf/2312.16602.pdf
 5. Vision-Language Models for Vision Tasks: A Survey, https://arxiv.org/pdf/2304.00685.pdf
+6. Evaluating Object Hallucination in Large Vision-Language Models, https://arxiv.org/pdf/2305.10355.pdf
 
 # LLM
 1. A Survey of Large Language Models, https://github.com/RUCAIBox/LLMSurvey
