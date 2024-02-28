@@ -1,4 +1,5 @@
-# Surveys
+# Survey Papers
+
 Large Visual Language Model(VLM), Large Language Model(LLM), Multimodal Large Language Model(MLLM), Agent, AI System, Survey
 
 # Multimodal
