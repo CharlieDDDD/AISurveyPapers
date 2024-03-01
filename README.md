@@ -6,7 +6,6 @@
 Large Visual Language Model(VLM), Large Language Model(LLM), Multimodal Large Language Model(MLLM), Agent, AI System, Survey
 
 ---
-
 # Multimodal
 1. [Foundational Models Defining a New Era in Vision: A Survey and Outlook](https://arxiv.org/pdf/2307.13721.pdf)
 2. [Multimodal Foundation Models: From Specialists to General-Purpose Assistants](https://arxiv.org/pdf/2309.10020.pdf)
@@ -16,6 +15,7 @@ Large Visual Language Model(VLM), Large Language Model(LLM), Multimodal Large La
 6. [Evaluating Object Hallucination in Large Vision-Language Models](https://arxiv.org/pdf/2305.10355.pdf)
 7. [MM-LLMs: Recent Advances in MultiModal Large Language Models](https://arxiv.org/pdf/2401.13601.pdf)
 
+---
 # LLM
 1. [A Survey of Large Language Models](https://github.com/RUCAIBox/LLMSurvey)
 2. [AI Alignment: A Comprehensive Survey](https://alignmentsurvey.com/)
@@ -25,10 +25,13 @@ Large Visual Language Model(VLM), Large Language Model(LLM), Multimodal Large La
 6. [Instruction Tuning for Large Language Models: A Survey](https://arxiv.org/pdf/2308.10792.pdf)
 7. [Understanding LLMs: A Comprehensive Overview from Training to Inference](https://arxiv.org/pdf/2401.02038.pdf)
 
+---
 # Agent
 1. [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864.pdf)
 2. [AGENT AI:SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION](https://arxiv.org/pdf/2401.03568.pdf)
 3. [PERSONAL LLM AGENTS: INSIGHTS AND SURVEY ABOUT THE CAPABILITY, EFFICIENCY AND SECURITY](https://arxiv.org/pdf/2401.05459.pdf)
 
+---
 # AGI
 1. [Levels of AGI: Operationalizing Progress on the Path to AGI](https://arxiv.org/pdf/2311.02462.pdf)
+2. [OpenAI: Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond)
