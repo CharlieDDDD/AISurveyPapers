@@ -17,8 +17,8 @@ Large Visual Language Model(LVLM), Large Language Model(LLM), Multimodal Large L
 
 ---
 # LLM
-1. [A Survey of Large Language Models](https://github.com/RUCAIBox/LLMSurvey)
-2. [AI Alignment: A Comprehensive Survey](https://alignmentsurvey.com/)
+1. [A Survey of Large Language Models](https://github.com/RUCAIBox/LLMSurvey), 2023.11
+2. [AI Alignment: A Comprehensive Survey](https://alignmentsurvey.com/), 2024.02
 3. [Instruction Tuning for Large Language Models: A Survey](https://arxiv.org/pdf/2308.10792.pdf), 2023.06
 4. [A Comprehensive Study of Knowledge Editing for Large Language Models](https://arxiv.org/pdf/2401.01286.pdf), 2024.01
 5. [A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models](https://arxiv.org/pdf/2401.01313.pdf), 2024.01
