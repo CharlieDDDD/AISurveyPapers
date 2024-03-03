@@ -6,7 +6,7 @@
 Large Visual Language Model(LVLM), Large Language Model(LLM), Multimodal Large Language Model(MLLM), Agent, AI System, Survey
 
 ---
-# Multimodal
+# Multimodal && LVLM
 1. [Vision-Language Models for Vision Tasks: A Survey](https://arxiv.org/pdf/2304.00685.pdf), 2023.04
 2. [Evaluating Object Hallucination in Large Vision-Language Models](https://arxiv.org/pdf/2305.10355.pdf), 2023.05
 3. [Foundational Models Defining a New Era in Vision: A Survey and Outlook](https://arxiv.org/pdf/2307.13721.pdf), 2023.07
