@@ -24,6 +24,7 @@ Large Visual Language Model(LVLM), Large Language Model(LLM), Multimodal Large L
 4. [A Comprehensive Study of Knowledge Editing for Large Language Models](https://arxiv.org/pdf/2401.01286.pdf), 2024.01
 5. [A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models](https://arxiv.org/pdf/2401.01313.pdf), 2024.01
 6. [Understanding LLMs: A Comprehensive Overview from Training to Inference](https://arxiv.org/pdf/2401.02038.pdf), 2024.01
+7. [Knowledge Conflicts for LLMs: A Survey](https://arxiv.org/pdf/2403.08319.pdf), 2024.03
 
 ---
 # Agent
