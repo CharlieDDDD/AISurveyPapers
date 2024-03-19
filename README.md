@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/github/last-commit/dongbzhi/AISurveyPapers?color=green) 
 
-Large Visual Language Model(LVLM), Large Language Model(LLM), Multimodal Large Language Model(MLLM), Agent, AI System, Survey
+Large Visual Language Model(LVLM), Large Language Model(LLM), Multimodal Large Language Model(MLLM), Alignment, Agent, AI System, Survey
 
 ---
 # Multimodal && LVLM
@@ -19,12 +19,18 @@ Large Visual Language Model(LVLM), Large Language Model(LLM), Multimodal Large L
 ---
 # LLM
 1. [A Survey of Large Language Models](https://github.com/RUCAIBox/LLMSurvey), 2023.11
-2. [AI Alignment: A Comprehensive Survey](https://alignmentsurvey.com/), 2024.02
-3. [Instruction Tuning for Large Language Models: A Survey](https://arxiv.org/pdf/2308.10792.pdf), 2023.06
+2. [Instruction Tuning for Large Language Models: A Survey](https://arxiv.org/pdf/2308.10792.pdf), 2023.06
+3. [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997.pdf), 2023.12
 4. [A Comprehensive Study of Knowledge Editing for Large Language Models](https://arxiv.org/pdf/2401.01286.pdf), 2024.01
 5. [A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models](https://arxiv.org/pdf/2401.01313.pdf), 2024.01
 6. [Understanding LLMs: A Comprehensive Overview from Training to Inference](https://arxiv.org/pdf/2401.02038.pdf), 2024.01
 7. [Knowledge Conflicts for LLMs: A Survey](https://arxiv.org/pdf/2403.08319.pdf), 2024.03
+
+---
+# Agent
+1. [Alignment of Language Agents](https://arxiv.org/pdf/2103.14659.pdf), 2021.03
+2. [AI Alignment: A Comprehensive Survey](https://alignmentsurvey.com/), 2024.02
+3. [On the Essence and Prospect: An Investigation of Alignment Approaches for Big Models](https://arxiv.org/pdf/2403.04204.pdf), 2024.03
 
 ---
 # Agent
