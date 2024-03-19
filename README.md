@@ -27,7 +27,7 @@ Large Visual Language Model(LVLM), Large Language Model(LLM), Multimodal Large L
 7. [Knowledge Conflicts for LLMs: A Survey](https://arxiv.org/pdf/2403.08319.pdf), 2024.03
 
 ---
-# Agent
+# Alignment
 1. [Alignment of Language Agents](https://arxiv.org/pdf/2103.14659.pdf), 2021.03
 2. [AI Alignment: A Comprehensive Survey](https://alignmentsurvey.com/), 2024.02
 3. [On the Essence and Prospect: An Investigation of Alignment Approaches for Big Models](https://arxiv.org/pdf/2403.04204.pdf), 2024.03
@@ -38,6 +38,7 @@ Large Visual Language Model(LVLM), Large Language Model(LLM), Multimodal Large L
 2. [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864.pdf), 2023.09
 3. [AGENT AI:SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION](https://arxiv.org/pdf/2401.03568.pdf), 2024.01
 4. [PERSONAL LLM AGENTS: INSIGHTS AND SURVEY ABOUT THE CAPABILITY, EFFICIENCY AND SECURITY](https://arxiv.org/pdf/2401.05459.pdf), 2024.01
+5. [Understanding the planning of LLM agents: A survey](https://arxiv.org/pdf/2402.02716.pdf), 2024.02
 
 ---
 # AGI
