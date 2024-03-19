@@ -44,3 +44,5 @@ Large Visual Language Model(LVLM), Large Language Model(LLM), Multimodal Large L
 # AGI
 1. [OpenAI: Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond), 2023.02
 2. [Levels of AGI: Operationalizing Progress on the Path to AGI](https://arxiv.org/pdf/2311.02462.pdf), 2023.11
+
+---
