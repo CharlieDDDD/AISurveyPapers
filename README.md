@@ -8,13 +8,12 @@ Large Visual Language Model(LVLM), Large Language Model(LLM), Multimodal Large L
 ---
 # Multimodal && LVLM
 1. [Vision-Language Models for Vision Tasks: A Survey](https://arxiv.org/pdf/2304.00685.pdf), 2023.04
-2. [Evaluating Object Hallucination in Large Vision-Language Models](https://arxiv.org/pdf/2305.10355.pdf), 2023.05
-3. [Foundational Models Defining a New Era in Vision: A Survey and Outlook](https://arxiv.org/pdf/2307.13721.pdf), 2023.07
-4. [Multimodal Foundation Models: From Specialists to General-Purpose Assistants](https://arxiv.org/pdf/2309.10020.pdf), 2023.09
-5. [How to Bridge the Gap between Modalities: A Comprehensive Survey on Multi-modal Large Language Model](https://arxiv.org/pdf/2311.07594.pdf), 2023.11
-6. [Visual Instruction Tuning towards General-Purpose Multimodal Model: A Survey](https://arxiv.org/pdf/2312.16602.pdf), 2023.12
-7. [MM-LLMs: Recent Advances in MultiModal Large Language Models](https://arxiv.org/pdf/2401.13601.pdf), 2024.01
-8. [A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/pdf/2402.00253.pdf), 2024.02
+2. [Foundational Models Defining a New Era in Vision: A Survey and Outlook](https://arxiv.org/pdf/2307.13721.pdf), 2023.07
+3. [Multimodal Foundation Models: From Specialists to General-Purpose Assistants](https://arxiv.org/pdf/2309.10020.pdf), 2023.09
+4. [How to Bridge the Gap between Modalities: A Comprehensive Survey on Multi-modal Large Language Model](https://arxiv.org/pdf/2311.07594.pdf), 2023.11
+5. [Visual Instruction Tuning towards General-Purpose Multimodal Model: A Survey](https://arxiv.org/pdf/2312.16602.pdf), 2023.12
+6. [MM-LLMs: Recent Advances in MultiModal Large Language Models](https://arxiv.org/pdf/2401.13601.pdf), 2024.01
+7. [A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/pdf/2402.00253.pdf), 2024.02
 
 ---
 # LLM
