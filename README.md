@@ -28,8 +28,9 @@ Large Visual Language Model(LVLM), Large Language Model(LLM), Multimodal Large L
 ---
 # Alignment
 1. [Alignment of Language Agents](https://arxiv.org/pdf/2103.14659.pdf), 2021.03
-2. [AI Alignment: A Comprehensive Survey](https://alignmentsurvey.com/), 2024.02
-3. [On the Essence and Prospect: An Investigation of Alignment Approaches for Big Models](https://arxiv.org/pdf/2403.04204.pdf), 2024.03
+2. [From Instructions to Intrinsic Human Values —— A Survey of Alignment Goals for Big Models](https://arxiv.org/pdf/2308.12014), 2023.08
+3. [AI Alignment: A Comprehensive Survey](https://alignmentsurvey.com/), 2024.02
+4. [On the Essence and Prospect: An Investigation of Alignment Approaches for Big Models](https://arxiv.org/pdf/2403.04204.pdf), 2024.03
 
 ---
 # Agent
