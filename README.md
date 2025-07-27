@@ -1,7 +1,7 @@
 # AI Survey Papers
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/dongbzhi/AISurveyPapers) 
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/CharlieDDDD/AISurveyPapers) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![](https://img.shields.io/github/last-commit/dongbzhi/AISurveyPapers?color=green) 
+![](https://img.shields.io/github/last-commit/CharlieDDDD/AISurveyPapers?color=green) 
 
 Large Visual Language Model(LVLM), Large Language Model(LLM), Multimodal Large Language Model(MLLM), Alignment, Agent, AI System, Survey
 
